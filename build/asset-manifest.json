@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebFrameWorkA1/static/css/main.16b670f7.css",
+    "main.js": "/WebFrameWorkA1/static/js/main.0c608de2.js",
+    "index.html": "/WebFrameWorkA1/index.html",
+    "main.16b670f7.css.map": "/WebFrameWorkA1/static/css/main.16b670f7.css.map",
+    "main.0c608de2.js.map": "/WebFrameWorkA1/static/js/main.0c608de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b670f7.css",
+    "static/js/main.0c608de2.js"
+  ]
+}
